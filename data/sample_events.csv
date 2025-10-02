@@ -1,0 +1,7 @@
+Sample sample_events.csv (for 3 products, 100 rows):
+
+product_id,price_cents,inventory_qty,competitor_price_cents,event_type,purchased
+1,1000,50,950,purchase,1
+1,1000,50,950,view,0
+2,1500,30,1450,purchase,1
+3,2000,20,2100,view,0
